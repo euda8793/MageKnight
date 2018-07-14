@@ -65,8 +65,6 @@ namespace MageKnight.View
             // TODO: Add your update logic here
 
             base.Update(gameTime);
-
-            // test
         }
 
         /// <summary>
